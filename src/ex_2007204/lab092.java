@@ -32,6 +32,9 @@ public class lab092 {
             break;
             case 7:
                 System.out.println("sun");
+            default:
+                System.out.println("no idea");
+                break;
 
     }
         System.out.println("out side the loop");
